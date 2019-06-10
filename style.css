@@ -160,3 +160,12 @@ i {
 .final-score:focus{
     outline: none;
 }
+
+a{
+    color: blue;
+    text-align: left;
+    font-size: 25px;
+}
+a:hover{
+    text-transform: uppercase;
+}
